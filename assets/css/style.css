@@ -70,6 +70,17 @@ h6 {
   height: 290px;
   object-fit: cover;
 }
+.phonesvg {
+  width: 20px;
+}
+.callphoneiconcs {
+  margin-left: 15px;
+  color: #151515;
+}
+.gmailiconca {
+  margin-left: 15px;
+  color: #151515;
+}
 /*--------------------------------------------------------------
 # Disable AOS delay on mobile
 --------------------------------------------------------------*/
